@@ -27,35 +27,33 @@ The work follows industry-recognized methodologies such as OWASP WSTG and PTES a
 ## 📁 Repository Structure
 
 Advanced-VAPT-Labs/
-│
-├── README.md                          ← overview (mandatory)
-│
-├── 01-Advanced-Exploitation/          ← Methodology + Exploit chains
-│   ├── Exploit-Chains.md
-│   ├── PoC-Customization.md
-│   ├── Obfuscation-Techniques.md
-│   ├── Case-Study-SolarWinds.md
-│   └── Screenshots/
-│
-├── 02-Web-App-Pentesting/             ← Findings/
-│   ├── DVWA-Testing.md
-│   ├── SQL-Injection.md
-│   ├── XSS.md
-│   ├── Burp-Requests/
-│   └── sqlmap-Outputs/
-│
-├── 03-Reporting/                      ← Executive + Final Report
-│   ├── Executive-Summary.md
-│   ├── Technical-Report.md
-│   ├── Manager-Brief.md
-│
-├── 04-Post-Exploitation/              ← Evidence + escalation
-│   ├── Privilege-Escalation.md
-│   └── Evidence-Collection.md
-│
-├── 05-Capstone/                       ← End-to-end engagement
-│   ├── OpenVAS-Results/
-│   └── Final-Report.md
+README.md                          ← overview (mandatory)
+  01-Advanced-Exploitation/          ← Methodology + Exploit chains
+      Exploit-Chains.md
+      PoC-Customization.md
+      Obfuscation-Techniques.md
+      Case-Study-SolarWinds.md
+      Screenshots/
+      
+  02-Web-App-Pentesting/             ← Findings/
+      DVWA-Testing.md
+      SQL-Injection.md
+      XSS.md
+      Burp-Requests/
+      sqlmap-Outputs/
+
+  03-Reporting/                      ← Executive + Final Report
+      Executive-Summary.md
+      Technical-Report.md 
+      Manager-Brief.md
+
+  04-Post-Exploitation/              ← Evidence + escalation
+      Privilege-Escalation.md
+      Evidence-Collection.md
+      
+  05-Capstone/                       ← End-to-end engagement
+      OpenVAS-Results/
+      Final-Report.md
 
 
 ### 🔹 01-Advanced-Exploitation
