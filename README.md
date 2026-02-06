@@ -84,15 +84,4 @@ Simulates a full VAPT engagement from reconnaissance to exploitation, remediatio
 ## ⚠️ Disclaimer
 All testing activities documented in this repository were conducted in intentionally vulnerable lab environments. These techniques are for educational purposes only. Unauthorized testing of systems without explicit permission is illegal.
 
----
 
-## 📌 Author
-**Role:** VAPT Analyst  
-**Focus Areas:** Web Application Security, Exploit Development, Security Reporting
-
----
-
-## 🚀 Next Steps
-- Expand exploit chaining scenarios
-- Add additional capstone assessments
-- Convert reports into client-ready PDFs
