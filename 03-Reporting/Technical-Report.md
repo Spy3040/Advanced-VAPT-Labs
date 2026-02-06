@@ -34,3 +34,11 @@ The application allows unlimited login attempts without enforcing rate limiting 
 Attackers can perform brute-force attacks to compromise valid user accounts.
 ### Remediation
 Implement rate limiting, account lockout after multiple failed attempts, and strong password policies.
+
+# Findings Table
+
+| Finding ID | Vulnerability    | CVSS Score | Remediation            |
+|-----------|------------------|------------|------------------------|
+| F001      | SQL Injection    | 9.1        | Input validation       |
+| F002      | Weak Password    | 7.5        | Enforce complexity    |
+
